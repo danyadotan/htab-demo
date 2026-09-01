@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+
+# local secrets
+.env*
+!.env.example
+
+# test and build output
+coverage/
+*.tsbuildinfo
+
+# local tooling
+.vercel/
+.DS_Store
+Thumbs.db
+pnpm-debug.log*
+npm-debug.log*
+

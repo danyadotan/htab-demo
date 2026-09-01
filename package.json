@@ -1,0 +1,39 @@
+{
+  "name": "htab-governed-repair-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "packageManager": "pnpm@11.2.2",
+  "dependencies": {
+    "@amplitude/analytics-browser": "^2.45.8",
+    "next": "^16.3.3",
+    "openai": "^7.8.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "server-only": "^0.0.1",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@mcp-b/webmcp-types": "^5.0.3",
+    "@types/node": "^26.4.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.3.3",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.11"
+  }
+}
+

@@ -1,0 +1,18 @@
+event_id,day,symptom,owner,summary
+EVT-001,1,access,IT,SSO group not provisioned before start
+EVT-002,3,approval,Hiring manager,Cost center approval remained unassigned
+EVT-003,4,duplicate,HR and IT,Employee identifier copied into service portal
+EVT-004,6,equipment,Vendor,Laptop order had no acknowledgement
+EVT-005,7,handoff,HR and IT,Each team referred the employee to the other
+EVT-006,12,access,IT,Payroll access missing after identity creation
+EVT-007,18,approval,Hiring manager,Role approval arrived after provisioning request
+EVT-008,25,duplicate,HR and IT,Office location differed between systems
+EVT-009,31,equipment,Vendor,Shipment status requested manually
+EVT-010,39,handoff,HR and Vendor,No team accepted the next obligation
+EVT-011,47,access,IT,Application bundle omitted one required system
+EVT-012,55,approval,Hiring manager,Start date moved while due dates remained static
+EVT-013,63,duplicate,HR and IT,Preferred name was re-entered inconsistently
+EVT-014,70,equipment,Vendor,Device arrived after employee start
+EVT-015,76,handoff,IT and Vendor,Unaccepted work had no escalation owner
+
+
